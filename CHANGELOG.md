@@ -6,14 +6,11 @@ Change Log
 * Improved handling of Firefox preferences and additional capabilities. Fixes #103 & #104
 * Skip destructive tests on firefox.com domain by default
 * Use a parameterised test for sensitive URLs
-* Support for selenium EventListeningWebDriver
+* Support for Selenium EventListeningWebDriver
 * Fixed UnicodeDecodeError in HTML report (#114)
-* Remove Travis-CI notification for #automation channel
 * Update the Selenium server used in the Travis-CI tests
-* Add a short sleep in an attempt to avoid an intermittent test failure
 * Add simple headless testing support with PhantomJS
-* Load selenium defaults from environment variables
-* Prefix help string for webdriver-specific options
+* Load Selenium defaults from environment variables
 * Adding Appium support for Saucelabs
 * Allow overriding the Sauce Labs sharing
 
