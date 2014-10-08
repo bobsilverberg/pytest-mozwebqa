@@ -22,7 +22,7 @@ Installation
 Running tests with pytest_mozwebqa
 ----------------------------------
 
-    usage: py.test [options] [path_to_tests]
+    Usage: py.test [options] [file_or_dir] [file_or_dir] [...]
 
 For full usage details run `py.test --help`.
 
